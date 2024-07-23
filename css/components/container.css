@@ -1,0 +1,28 @@
+.container {
+  display: block;
+  padding-left: 30px;
+  margin: auto;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container > p {
+  color: white;
+  opacity: 0.9;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.container > a {
+  color: white;
+  background-color: #1CDD87;
+  padding: 15px 25px;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+.container h2 {
+  text-align: center;
+}
